@@ -11,6 +11,3 @@ def bark
 end
 
 end
-
-
-
