@@ -8,6 +8,8 @@ def name
 end
 
 end
+fido = Dog.name
+fido.name = "Fido"
 
 puts fido.bark
 
